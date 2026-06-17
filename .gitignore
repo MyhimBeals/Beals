@@ -1,0 +1,26 @@
+# Quartus II / Prime Generated and Temporary Files
+db/
+incremental_db/
+output_files/
+hc_output/
+*.tmp
+*.bak
+*.rpt
+*.smsg
+*.summary
+*.done
+*.jdi
+*.pin
+*.qws
+*.dpf
+*.ddb
+*.log
+*~
+
+# VS Code / IDE settings
+.vscode/
+
+# Local tools / Agent skills (optional)
+superpowers/
+skills/
+.agent/
